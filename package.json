@@ -1,0 +1,20 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andres-sanabria-10/Aprendiendo-React.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andres-sanabria-10/Aprendiendo-React/issues"
+  },
+  "homepage": "https://github.com/andres-sanabria-10/Aprendiendo-React#readme",
+  "description": ""
+}
